@@ -15,3 +15,17 @@
 
   
 ##############
+
+---  To Do  ---
+  - Create virtual environment
+  - base pages / templates
+  - authentication
+  - simple dashboard
+  - create new leads
+  - change and delete leads
+  - convert leads to clients
+  - change and delete clients
+  - implement solution for teams
+  - implement solution for payments / monthly recurring payments
+  - deploy
+##############
