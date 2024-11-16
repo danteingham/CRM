@@ -1,0 +1,17 @@
+##############
+  
+#Title  | CRM
+#Description  | Tatttoo Artist and Graphic Designer CRM for personal business
+#Objective  | CRM facilitates the exchange of payment and service provision between clients and provider.  
+#Sources | https://www.youtube.com/watch?v=LWro0nVdrBw, 
+#Date  | 11.16.2024
+  
+##############
+
+---  Features  ---
+  - relevant information provided in a pleasing and acceptable manner to client, provider, and those outside of the relationship 
+  - provider information presented includes: available services, portfolio, rates, contact information
+  - for entry to site, client information provided to provider includes: services sought, contact information including name, email, phone number, address 
+
+  
+##############
